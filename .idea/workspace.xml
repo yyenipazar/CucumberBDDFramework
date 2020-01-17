@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="988d0801-204e-47f5-bc40-92406c19e5d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1UlvweEUpAoZY7Plcw5XZxQQQf2" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: Verify invalid login from messenger page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/messenger.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberBDDFramework" />
+      <option name="NAME_FILTER" value="^Verify invalid login from messenger page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login from messenger page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login from messenger page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBDDFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="framework" />
+      <option name="MAIN_CLASS_NAME" value="framework.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login from messenger page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="988d0801-204e-47f5-bc40-92406c19e5d2" name="Default Changelist" comment="" />
+      <created>1575944235917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575944235917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1373" y="189" key="#TestRunner" timestamp="1576191123584">
+      <screen x="-1920" y="0" width="1920" height="1033" />
+    </state>
+    <state x="-1373" y="189" key="#TestRunner/0.0.1280.800/-1920.0.1920.1033@-1920.0.1920.1033" timestamp="1576191123584" />
+    <state width="1594" height="197" key="GridCell.Tab.0.bottom" timestamp="1578029326883">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1876" height="482" key="GridCell.Tab.0.bottom/0.0.1280.761/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187268529" />
+    <state width="1876" height="286" key="GridCell.Tab.0.bottom/0.0.1280.762/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187856983" />
+    <state width="1636" height="338" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1576215854706" />
+    <state width="1594" height="197" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1032@0.0.1280.800" timestamp="1578029326883" />
+    <state width="1876" height="360" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1033@-1920.0.1920.1033" timestamp="1576191243608" />
+    <state width="1876" height="400" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576177681124" />
+    <state width="1236" height="247" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1576258083214" />
+    <state width="1594" height="197" key="GridCell.Tab.0.center" timestamp="1578029326882">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1876" height="482" key="GridCell.Tab.0.center/0.0.1280.761/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187268527" />
+    <state width="1876" height="286" key="GridCell.Tab.0.center/0.0.1280.762/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187856982" />
+    <state width="1636" height="338" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1576215854704" />
+    <state width="1594" height="197" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1032@0.0.1280.800" timestamp="1578029326882" />
+    <state width="1876" height="360" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1033@-1920.0.1920.1033" timestamp="1576191243606" />
+    <state width="1876" height="400" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576177681120" />
+    <state width="1236" height="247" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1576258083212" />
+    <state width="1594" height="197" key="GridCell.Tab.0.left" timestamp="1578029326881">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1876" height="482" key="GridCell.Tab.0.left/0.0.1280.761/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187268526" />
+    <state width="1876" height="286" key="GridCell.Tab.0.left/0.0.1280.762/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187856982" />
+    <state width="1636" height="338" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1576215854703" />
+    <state width="1594" height="197" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1032@0.0.1280.800" timestamp="1578029326881" />
+    <state width="1876" height="360" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1033@-1920.0.1920.1033" timestamp="1576191243605" />
+    <state width="1876" height="400" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576177681119" />
+    <state width="1236" height="247" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1576258083210" />
+    <state width="1594" height="197" key="GridCell.Tab.0.right" timestamp="1578029326882">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1876" height="482" key="GridCell.Tab.0.right/0.0.1280.761/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187268528" />
+    <state width="1876" height="286" key="GridCell.Tab.0.right/0.0.1280.762/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576187856983" />
+    <state width="1636" height="338" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1576215854705" />
+    <state width="1594" height="197" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1032@0.0.1280.800" timestamp="1578029326882" />
+    <state width="1876" height="360" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1033@-1920.0.1920.1033" timestamp="1576191243607" />
+    <state width="1876" height="400" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576177681121" />
+    <state width="1236" height="247" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1576258083213" />
+    <state x="-1352" y="179" key="Maven.ArtifactSearchDialog" timestamp="1576188250644">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1352" y="179" key="Maven.ArtifactSearchDialog/0.0.1280.800/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1576188250644" />
+    <state x="-1622" y="168" key="SettingsEditor" timestamp="1575996682363">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1755" y="310" key="SettingsEditor/0.0.1280.800/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1575996522942" />
+    <state x="-1622" y="168" key="SettingsEditor/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1575996682363" />
+    <state x="420" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578914875584">
+      <screen x="0" y="0" width="1280" height="758" />
+    </state>
+    <state x="-1290" y="374" key="com.intellij.ide.util.TipDialog/0.0.1280.758/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1578865009317" />
+    <state x="420" y="262" key="com.intellij.ide.util.TipDialog/0.0.1280.758/-1920.0.1920.1080@0.0.1280.758" timestamp="1578914875584" />
+    <state x="-1290" y="374" key="com.intellij.ide.util.TipDialog/0.0.1280.759/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1578684056105" />
+    <state x="-1290" y="374" key="com.intellij.ide.util.TipDialog/0.0.1280.760/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1578506685013" />
+    <state x="-1290" y="357" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1578362540254" />
+    <state x="-1290" y="374" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576175699245" />
+    <state x="-1531" y="246" key="new project wizard" timestamp="1576237573147">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1531" y="246" key="new project wizard/0.0.1280.758/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1576237573147" />
+    <state x="-1531" y="246" key="new project wizard/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1575944621702" />
+    <state x="-1295" y="255" width="670" height="675" key="run.anything.popup" timestamp="1575996898110">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="255" width="670" height="675" key="run.anything.popup/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1575996898110" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CucumberBDDFramework$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1576114813382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>framework.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="false" />
+  </component>
+</project>

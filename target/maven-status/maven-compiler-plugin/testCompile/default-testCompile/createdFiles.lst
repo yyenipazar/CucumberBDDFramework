@@ -1,0 +1,8 @@
+framework/webpages/MessengerPage.class
+stepdefinition/SharedSD.class
+framework/webpages/ElementUtil$1.class
+util/ConfigReader.class
+framework/webpages/ElementUtil.class
+stepdefinition/MessengerSD.class
+stepdefinition/Hooks.class
+framework/TestRunner.class
